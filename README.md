@@ -8,7 +8,7 @@ In my day job, I've been dabbling in Python programming. However, I've been stud
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [My Portfolio](http://shawn-goh24.github.io/portfolio/)
-* ✉️  You can contact me at [shawn\_gzl@hotmail.com](mailto:shawn_gzl@hotmail.com)
+<!-- * ✉️  You can contact me at [shawn\_gzl@hotmail.com](mailto:shawn_gzl@hotmail.com) -->
 * 🧠  I'm learning Back-end development (Express.js, SQL/PostgreSQL)
 
 ### Skills
