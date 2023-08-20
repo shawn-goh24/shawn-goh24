@@ -7,7 +7,7 @@ Upcoming full-stack developer
 In my day job, I've been dabbling in Python programming. However, I've been studying web development for the past five months or so. I hope to improve my career with this and join the tech/fintech sector.
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [My Portfolio](https://portfolio-indol-eta-40.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://portfolio-indol-eta-40.vercel.app/){:target="_blank"}
 * 🧠  I'm learning Back-end development (Express.js, SQL/PostgreSQL)
 <!-- * ✉️  You can contact me at [shawn\_gzl@hotmail.com](mailto:shawn_gzl@hotmail.com) -->
 
