@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shawn Goh
 =================================================================================================================================
 
-Upcoming full-stack developer
+Frontend Engineer
 -----------------------------
-
-In my day job, I've been dabbling in Python programming. However, I've been studying web development for the past five months or so. I hope to improve my career with this and join the tech/fintech sector.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at <a href="https://portfolio-indol-eta-40.vercel.app/" target="_blank">My Portfolio</a>
-* 🧠  I'm learning Back-end development (Express.js, SQL/PostgreSQL)
+* 🧠  I'm learning Back-end development (NestJS)
 <!-- * ✉️  You can contact me at [shawn\_gzl@hotmail.com](mailto:shawn_gzl@hotmail.com) -->
 
 ### Skills
